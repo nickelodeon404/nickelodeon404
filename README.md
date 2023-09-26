@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic V. Ama</h1>
-<h3 align="center">Aiming to become a full stack Web Developer</h3>
+<h3 align="center">Aiming to become a Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickelodeon404&label=Profile%20views&color=0e75b6&style=flat" alt="nickelodeon404" /> </p>
 
