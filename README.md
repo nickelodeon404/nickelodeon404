@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic V. Ama</h1>
-<h3 align="center">Aiming to become a Full Stack Web Developer</h3>
+<h3 align="center">Aiming to become a full stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickelodeon404&label=Profile%20views&color=0e75b6&style=flat" alt="nickelodeon404" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickelodeon404" alt="nickelodeon404" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kuyanick" target="blank"><img src="https://img.shields.io/twitter/follow/kuyanick?logo=twitter&style=for-the-badge" alt="kuyanick" /></a> </p>
 
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickelodeon404&show_icons=true&locale=en&layout=compact" alt="nickelodeon404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickelodeon404&show_icons=true&locale=en" alt="nickelodeon404" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickelodeon404&" alt="nickelodeon404" /></p>
