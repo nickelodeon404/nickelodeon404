@@ -22,7 +22,7 @@
 
 <center>
 <p"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickelodeon404&show_icons=true&locale=en&layout=compact" alt="nickelodeon404" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickelodeon404&show_icons=true&locale=en" alt="nickelodeon404" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nickelodeon404&show_icons=true&locale=en" alt="nickelodeon404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickelodeon404&" alt="nickelodeon404" /></p>
 </center>
 
